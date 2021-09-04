@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "960586009568",
+    "project_id": "carpool-csis4280",
+    "storage_bucket": "carpool-csis4280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960586009568:android:e232b4c19fcd29951b7985",
+        "android_client_info": {
+          "package_name": "nikhil.example.carpool_csis4280"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960586009568-buc6vg9fhn4s25sl0r02iikdvnour05k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nikhil.example.carpool_csis4280",
+            "certificate_hash": "869d20e65e85333a4a27b390eb6014143fd85bed"
+          }
+        },
+        {
+          "client_id": "960586009568-8kmf5h1cbde474u6qpgsuin52gn7phpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKIU0Shsh_xCbXIcILXt_iehCwSbg0QaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960586009568-8kmf5h1cbde474u6qpgsuin52gn7phpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
